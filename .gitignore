@@ -25,6 +25,11 @@
 *.la
 *.a
 *.lib
+*.sln
+
+# pictures and tests
+*.png
+Test.*
 
 # Executables
 *.exe
